@@ -10,6 +10,8 @@ fastapi>=0.95.0
 uvicorn==0.18.3
 
 #install essential packages
+#pandas only for Profiler comparison purpose
+pandas 
 polars
 matplotlib
 pyinstrument
