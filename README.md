@@ -19,6 +19,6 @@ https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 - Data_Summary.pdf: Output pdf generated from Jupyter Notebook to showcase the analysis output
 
 # Summary Statistics of Age and Billing Amount
-(healthcare_summary.md)
+(/healthcare_summary.md)
 
 # Profiler Comparison
