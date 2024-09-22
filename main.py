@@ -45,9 +45,9 @@ def save_to_markdown():
     describe_df = describe_stat(dataframe, ["Age", "Billing Amount"])
     markdown_table = str(describe_df)
     with open("healthcare_summary.md", "w", encoding="utf-8") as file:
-        file.write("Healthcare Dataset Describe:\n")
+        file.write("Describe:\n")
         file.write(markdown_table)
-        file.write("\nHistogram of Billing Amount Distribution\n")
+        file.write("\n\n")
         file.write("![Graph Description](Billing_Amount_Hist.png)")
 
 

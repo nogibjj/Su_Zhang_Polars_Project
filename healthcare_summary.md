@@ -1,4 +1,4 @@
-Healthcare Dataset Describe:
+Describe:
 shape: (9, 3)
 ┌────────────┬───────────┬────────────────┐
 │ statistic  ┆ Age       ┆ Billing Amount │
@@ -15,5 +15,5 @@ shape: (9, 3)
 │ 75%        ┆ 68.0      ┆ 37820.489293   │
 │ max        ┆ 89.0      ┆ 52764.276736   │
 └────────────┴───────────┴────────────────┘
-Histogram of Billing Amount Distribution
+
 ![Graph Description](Billing_Amount_Hist.png)

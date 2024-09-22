@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 - Billing_Amount_Hist.png: Output histogram graph demonstrating the distribution of billing amount
 - Data_Summary.pdf: Output pdf generated from Jupyter Notebook to showcase the analysis output
 
-# Summary Statistics of Age and Billing Amount
-[Healthcare Summary](./healthcare_summary.md)
+# Descriptive Statistics and Vizualizationst
+Please find the descriptive statistics and vizualizations here: [Healthcare Summary](./healthcare_summary.md)
 
 # Profiler Comparison
