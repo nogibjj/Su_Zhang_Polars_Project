@@ -1,4 +1,4 @@
-
+[![Python Application Test with Github Actions - Polars Project Su Zhang](https://github.com/nogibjj/Su_Zhang_Polars_Project/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Su_Zhang_Polars_Project/actions/workflows/cicd.yml)
 
 # Su Zhang Polars Project - IDS706 Week 3 Assignment
 This project aims to analyze a dataset on patients' healthcare records, which includes patient age, gender, blood type, medical condition, billing amount, medication etc. Please note that these data are not real-world data and are just for descriptive data practice. This project primarily used **Polars** and **Matplotlib** packages to analyze the distribution of billing amount, summary statistics (mean, median, max, standard variation) of billing amount, and age. This project also showcased the distribution of subcategories in tables for the categorical variables, such as blood type, medical condition, admission type, and test results. 
@@ -18,7 +18,11 @@ https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 - Billing_Amount_Hist.png: Output histogram graph demonstrating the distribution of billing amount
 - Data_Summary.pdf: Output pdf generated from Jupyter Notebook to showcase the analysis output
 
-# Descriptive Statistics and Vizualizationst
-Please find the descriptive statistics and vizualizations here: [Healthcare Summary](./healthcare_summary.md)
+# Descriptive Statistics and Visualizations
+<img width="329" alt="Screen Shot 2024-09-22 at 2 19 25 AM" src="https://github.com/user-attachments/assets/fd7201e7-75a1-48e9-90b3-49fa14445942">
+
+![Billing Amount](./Billing_Amount_Hist.png)
 
 # Profiler Comparison
+<img width="519" alt="Screen Shot 2024-09-22 at 2 18 06 AM" src="https://github.com/user-attachments/assets/9acada48-ee8e-4f0c-95a3-d6cafb075fed">
+<img width="536" alt="Screen Shot 2024-09-22 at 2 18 22 AM" src="https://github.com/user-attachments/assets/23a6322a-844d-447f-b42f-26def695c268">
