@@ -10,5 +10,6 @@ fastapi>=0.95.0
 uvicorn==0.18.3
 
 #install essential packages
-pandas
-matplotlib
+polars==1.7.1
+matplotlib==3.9.2
+pyinstrument ==4.7.3

@@ -1,4 +1,4 @@
-name: Python Application Test with Github Actions - Pandas Project Su Zhang
+name: Python Application Test with Github Actions - Polars Project Su Zhang
 on:
   schedule:
   - cron:  '0 3 * * SUN'
